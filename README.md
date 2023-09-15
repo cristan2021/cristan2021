@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristan EMIR-MOUNGONDO</h1>
 <h3 align="center">A Student in computer science</h3>
-<img align="right" alt="coding" width="400" src="user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 - 🌱 I’m currently learning **angular and TypeScript**
 
 - 📫 How to reach me **cristanemir@gmail.com**
