@@ -1,5 +1,4 @@
 <h1 align="center">Bonjour à tous 👋, je m'appelle Cristan EMIR-MOUNGONDO</h1>
-<img align="right" alt="coding" width="400" src="user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 Je suis actuellement étudiant en Master 2 en Bases de Données Intelligence Artificielle à l'Université de Bourgogne. Passionné par les nouvelles technologies, je m'intéresse particulièrement aux innovations dans le domaine du développement d'applications et des systèmes de gestion de bases de données.
 
