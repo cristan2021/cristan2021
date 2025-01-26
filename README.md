@@ -71,4 +71,6 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
     <img height=50 width=50 title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img height=50 width=50 title="SQLite"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    <img height=50 width=50 title="PostgreSQL"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
