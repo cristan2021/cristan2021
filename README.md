@@ -17,12 +17,10 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
 
 #### Langages de programmation
 <div>
-    <img height=50 width=50 title="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img height=50 width=50 title="Java"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img height=50 width=50 title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img height=50 width=50 title="Javascript"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height=50 width=50 title="Python" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height=50 width=50 title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img height=50 width=50 title="C++"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -30,6 +28,10 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height=50 width=50 title="CSS"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+     <img height=50 width=50 title="Javascript"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img height=50 width=50 title="Php"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
 #### Os
@@ -56,12 +58,17 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
 
 #### Frameworks and libraries
 <div>
+    <img height=50 width=50 title="Angular"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img height=50 width=50 title="jQuery"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
     <img height=50 width=50 title="Qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
     <img height=50 width=50 title="Bootstrap"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
+    <img height=50 width=50 title="Symfony"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
+    <img height=50 width=50 title="Spring Boot"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </div>
 
 #### Databases
@@ -73,4 +80,6 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
     <img height=50 width=50 title="PostgreSQL"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img height=50 width=50 title="Vertica"
+        src="https://www.vertica.com/wp-content/uploads/2019/12/vertica_favicon.png" />
 </div>
