@@ -80,6 +80,4 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
     <img height=50 width=50 title="PostgreSQL"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img height=50 width=50 title="Vertica"
-        src="https://www.vertica.com/wp-content/uploads/2019/12/vertica_favicon.png" />
 </div>
