@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour à tous 👋, je m'appelle Cristan EMIR-MOUNGONDO</h1>
 
-Je suis diplômé d'un Master Bases de Données Intelligence Artificielle à l'Université de Bourgogne. Passionné par les nouvelles technologies, je m'intéresse particulièrement aux innovations dans le domaine de la data BI et du développement d'applications.
+Je suis diplômé d'un Master Bases de Données Intelligence Artificielle à l'Université de Bourgogne. Passionné par les nouvelles technologies, je m'intéresse particulièrement aux innovations dans le domaine de la data, du Business Intelligence ainsi que du  du développement d'applications.
 
 Mon objectif est de maîtriser les technologies innovantes et de les appliquer à des solutions concrètes, que ce soit dans le développement de systèmes intelligents, la gestion optimisée des données, ou encore l'amélioration des processus décisionnels grâce à l'intelligence artificielle.
 
@@ -14,6 +14,18 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
 </p>
 
 ### 💻 Tech Stack:
+#### DataViz
+<div>
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+    <img src="https://img.shields.io/badge/-Metabase-509ee3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
+</div>
+
+#### Outils ETL
+<div>
+  <img src="https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/-Talend-FF5D32?style=for-the-badge&logo=talend&logoColor=white" alt="Talend" />
+  <img src="https://img.shields.io/badge/-Semarchy-000000?style=for-the-badge&labelColor=000000&color=00BFFF" alt="Semarchy" />
+</div>
 
 #### Langages de programmation
 <div>
@@ -24,10 +36,6 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
     <img height=50 width=50 title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img height=50 width=50 title="C++"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img height=50 width=50 title="HTML"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height=50 width=50 title="CSS"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
      <img height=50 width=50 title="Javascript"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <img height=50 width=50 title="Php"
@@ -36,12 +44,8 @@ J'aime explorer les nouvelles tendances technologiques et je suis toujours à la
 
 #### Os
 <div>
-    <img height=50 width=50 title="Ubuntu"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
     <img height=50 width=50 title="Windows"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-    <img height=50 width=50 title="Debian"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
     <img height=50 width=50 title="Linux"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
