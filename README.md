@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour à tous 👋, je m'appelle Cristan EMIR-MOUNGONDO</h1>
 
-Je suis diplômé d'un Master Bases de Données Intelligence Artificielle à l'Université de Bourgogne. Passionné par les nouvelles technologies, je m'intéresse particulièrement aux innovations dans le domaine de la data, du Business Intelligence ainsi que du  du développement d'applications.
+Je suis diplômé d'un Master Bases de Données Intelligence Artificielle à l'Université de Bourgogne. Passionné par les nouvelles technologies, je m'intéresse particulièrement aux innovations dans le domaine de la data, du Business Intelligence ainsi que du développement d'applications.
 
 Mon objectif est de maîtriser les technologies innovantes et de les appliquer à des solutions concrètes, que ce soit dans le développement de systèmes intelligents, la gestion optimisée des données, ou encore l'amélioration des processus décisionnels grâce à l'intelligence artificielle.
 
